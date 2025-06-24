@@ -1,8 +1,39 @@
-# React + Vite
+# 🚗 DailyDrive - Task Management Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DailyDrive** is a lightweight, responsive task management web application that allows users to create, update, and delete tasks with a minimal, user-friendly interface. Built using modern frontend technologies, it offers a fast and interactive experience.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✏️ Create, edit, and delete tasks
+- 📋 Organize daily to-dos efficiently
+- ⚡ Lightning-fast performance using **Vite**
+- 🎨 Sleek and clean design with **Tailwind CSS**
+- 📱 Responsive layout for various screen sizes
+- ☁️ Deployed using **Render**
+
+## 🛠️ Tech Stack
+
+- **React** – UI Components
+- **Tailwind CSS** – Styling
+- **Vite** – Build tool for blazing-fast dev experience
+- **Render** – Hosting and deployment
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed
+
+### Installation
+    git clone https://github.com/amansingh567/DailyDrive.git
+    cd DailyDrive
+    npm install
+    npm run dev
+
+📦 Build for Production
+
+    npm run build
+
+    
+📍 Live Demo
+[DailyDrive on Render](https://dailydrive-eg6u.onrender.com/)
